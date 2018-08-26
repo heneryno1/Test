@@ -1,1 +1,3 @@
-console.log(100+200);
+var name ='world';
+var rs=`hello,${name}!`;
+console.log(rs);
